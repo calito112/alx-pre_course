@@ -1,1 +1,1 @@
-Please Readme
+My journey to software development.
